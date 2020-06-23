@@ -34,4 +34,4 @@ function unleashDog(dogName, dogBreed) {
   return sentence;
 }
 
-let routine = [wakeDog(), leashDog(), walkToPark(), throwFrisbee(), walkHome(), unleashDog()]
+var routine = [wakeDog(), leashDog(), walkToPark(), throwFrisbee(), walkHome(), unleashDog()]
