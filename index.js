@@ -3,3 +3,5 @@ function wakeDog(dogName, dogBreed) {
   console.log(sentence);
   return sentence;
 }
+
+function leashDog()
