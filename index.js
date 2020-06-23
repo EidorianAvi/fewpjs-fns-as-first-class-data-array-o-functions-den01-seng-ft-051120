@@ -33,3 +33,5 @@ function unleashDog(dogName, dogBreed) {
   console.log(sentence);
   return sentence;
 }
+
+let routine = [wakeDog(), leash]
